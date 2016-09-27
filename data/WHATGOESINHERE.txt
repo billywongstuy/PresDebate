@@ -1,0 +1,5 @@
+*csv files
+*inert data
+
+
+task: refactor occupations data delivery using data/
