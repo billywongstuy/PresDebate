@@ -1,0 +1,3 @@
+*images
+*CSS
+*static HTML templates (non-template)
